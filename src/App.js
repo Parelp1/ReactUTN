@@ -4,6 +4,8 @@ import Header from './componentes/Header';
 import Footer from './componentes/Footer';
 import Nav from './componentes/Nav';
 import './App.css';
+import HomePage from './pages/HomePage';
+import Ejemplo01 from './pages/Ejemplo01';
 
 
 
@@ -14,7 +16,9 @@ function App() {
       <BrowserRouter>
         <Nav />
           <Routes>
-          {/*<Route path="/" element={<Home />} />  Ruta para la página de inicio */}
+          <Route path="/" element={<HomePage/>}/> 
+          <Route path="/ejemplo01" element={<Ejemplo01/>}/>
+        
           </Routes>
       </BrowserRouter>
       

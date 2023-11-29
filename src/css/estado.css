@@ -1,0 +1,33 @@
+h3{
+    color: brown;
+}
+
+.buttonGroup{
+    padding: 20px;
+    display: flex;
+    align-items: center;
+    gap: 30px;
+}
+
+.success{
+    border-radius: 10px;
+    padding: 20px;
+    background-color: green;
+    color: white;
+    font-size: 10px;
+}
+
+.error{
+    border-radius: 10px;
+    padding: 20px;
+    background-color: red;
+    color: white;
+    font-size: 10px;
+}
+
+.contenedor{
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+
+}

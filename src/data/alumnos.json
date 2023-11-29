@@ -1,0 +1,22 @@
+[
+    {
+        "nombre": "Juancito",
+        "Apellido": "Gomez",
+        "edad": 24
+    },
+    {
+        "nombre": "Lucrecia",
+        "Apellido": "Funko",
+        "edad": 23
+    },
+    {
+        "nombre": "Martincito",
+        "Apellido": "Jajas",
+        "edad": 12
+    },
+    {
+        "nombre": "Fernandito",
+        "Apellido": "Fernet",
+        "edad": 93
+    }
+]
